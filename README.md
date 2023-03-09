@@ -33,7 +33,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![](https://github.com/michelletwain/and101-project1-starter/blob/main/proj1.gif)
+![]([https://github.com/michelletwain/and101-project1-starter/blob/main/proj1.gif](https://github.com/michelletwain/Project-2-Kotlin-Debug-a-thon/blob/main/project2.gif))
 
 GIF created with ScreenToGif
 
